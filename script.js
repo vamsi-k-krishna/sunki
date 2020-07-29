@@ -385,5 +385,5 @@ class SVGShape {
 	}
 }
 
-const app = new App("lakshmi narasimha");
+const app = new App("sri lakshmi narasimha");
 app.init();
